@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="epamazurelab" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Dropbox\\Dropbox\\Azure\ Training\ 2016\\Lectures\\1\\Demo\\GeekQuiz\\GeekQuiz\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Dropbox\\Dropbox\\Azure\ Training\ 2016\\Lectures\\1\\Demo\\GeekQuiz\\GeekQuiz\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:azurelabdb.database.windows.net,1433;Initial Catalog=epamazurelab_db;User Id=epamazurelab@azurelabdb;Password=14or@llAnd@ll4or1" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Dropbox\\Dropbox\\Azure\ Training\ 2016\\Lectures\\1\\Demo\\GeekQuiz\\GeekQuiz\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="AD_APPIDUri" description="" value="https://epamazurelab.onmicrosoft.com/WebApp-epamazurelab.azurewebsites.net" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Dropbox\\Dropbox\\Azure\ Training\ 2016\\Lectures\\1\\Demo\\GeekQuiz\\GeekQuiz\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/system.identityModel/identityConfiguration/audienceUris/add[@value='APPIDUri']/@value" />
+    <parameterEntry kind="XmlFile" scope="D:\\Dropbox\\Dropbox\\Azure\ Training\ 2016\\Lectures\\1\\Demo\\GeekQuiz\\GeekQuiz\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/system.identityModel.services/federationConfiguration/wsFederation[@requireHttps='true']/@realm" />
+  </parameter>
+  <parameter name="AD_ClientID" description="" value="8bd93965-a516-4c9d-9033-f0b213baed70" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Dropbox\\Dropbox\\Azure\ Training\ 2016\\Lectures\\1\\Demo\\GeekQuiz\\GeekQuiz\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/appSettings/add[@key='ida:ClientID']/@value" />
+  </parameter>
+  <parameter name="AD_Issuer" description="" value="https://login.windows.net/epamazurelab.onmicrosoft.com/wsfed" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Dropbox\\Dropbox\\Azure\ Training\ 2016\\Lectures\\1\\Demo\\GeekQuiz\\GeekQuiz\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/system.identityModel.services/federationConfiguration/wsFederation[@requireHttps='true']/@issuer" />
+  </parameter>
+  <parameter name="AD_MetadataUrl" description="" value="https://login.windows.net/epamazurelab.onmicrosoft.com/FederationMetadata/2007-06/FederationMetadata.xml" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Dropbox\\Dropbox\\Azure\ Training\ 2016\\Lectures\\1\\Demo\\GeekQuiz\\GeekQuiz\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/appSettings/add[@key='ida:FederationMetadataLocation']/@value" />
+  </parameter>
+  <parameter name="AD_ClientPassword" description="" value="Ibp3bpGvyFk5Vz6o7PyhHoN4ixvZd4ViZhXWv7ExB4o=" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Dropbox\\Dropbox\\Azure\ Training\ 2016\\Lectures\\1\\Demo\\GeekQuiz\\GeekQuiz\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/appSettings/add[@key='ida:Password']/@value" />
+  </parameter>
+  <parameter name="AD_RealmAppSetting" description="" value="https://epamazurelab.onmicrosoft.com/WebApp-epamazurelab.azurewebsites.net" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Dropbox\\Dropbox\\Azure\ Training\ 2016\\Lectures\\1\\Demo\\GeekQuiz\\GeekQuiz\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/appSettings/add[@key='ida:Realm']/@value" />
+  </parameter>
+  <parameter name="AD_AudienceUriAppSetting" description="" value="https://epamazurelab.onmicrosoft.com/WebApp-epamazurelab.azurewebsites.net" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Dropbox\\Dropbox\\Azure\ Training\ 2016\\Lectures\\1\\Demo\\GeekQuiz\\GeekQuiz\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/appSettings/add[@key='ida:AudienceUri']/@value" />
+  </parameter>
+  <parameter name="AD_TenantId" description="" value="a609185f-6ee0-459f-8357-2c49b0843fb8" tags="" />
+  <parameter name="AD_Domain" description="" value="epamazurelab.onmicrosoft.com" tags="" />
+</parameters>

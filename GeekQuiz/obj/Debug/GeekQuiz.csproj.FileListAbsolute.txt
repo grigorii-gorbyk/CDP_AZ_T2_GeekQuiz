@@ -1,0 +1,134 @@
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\GeekQuiz.dll.config
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\GeekQuiz.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\GeekQuiz.pdb
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\Antlr3.Runtime.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\EntityFramework.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\EntityFramework.SqlServer.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\Microsoft.Web.Infrastructure.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\Newtonsoft.Json.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Net.Http.Formatting.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.Helpers.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.Http.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.Http.WebHost.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.Mvc.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.Optimization.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.Razor.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Deployment.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Razor.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\WebGrease.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.Helpers.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.Mvc.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.Optimization.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.Razor.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Deployment.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Razor.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\Antlr3.Runtime.pdb
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\Newtonsoft.Json.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Net.Http.Formatting.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.Http.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\System.Web.Http.WebHost.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\EntityFramework.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\EntityFramework.SqlServer.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.dll
+\\FESCHENKO-PC\Azure Training 2016\Lectures\1\Demo\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.pdb
+D:\GeekQuiz\GeekQuiz\bin\App_Data\jobs\triggered\HelloWebJobs\HelloWebJobs.exe
+D:\GeekQuiz\GeekQuiz\bin\App_Data\jobs\triggered\HelloWebJobs\HelloWebJobs.pdb
+D:\GeekQuiz\GeekQuiz\bin\App_Data\jobs\triggered\HelloWebJobs\HelloWebJobs.exe.config
+D:\GeekQuiz\GeekQuiz\bin\GeekQuiz.dll.config
+D:\GeekQuiz\GeekQuiz\bin\GeekQuiz.dll
+D:\GeekQuiz\GeekQuiz\bin\GeekQuiz.pdb
+D:\GeekQuiz\GeekQuiz\bin\Antlr3.Runtime.dll
+D:\GeekQuiz\GeekQuiz\bin\EntityFramework.dll
+D:\GeekQuiz\GeekQuiz\bin\EntityFramework.SqlServer.dll
+D:\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GeekQuiz\GeekQuiz\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\GeekQuiz\GeekQuiz\bin\Microsoft.Web.Infrastructure.dll
+D:\GeekQuiz\GeekQuiz\bin\Newtonsoft.Json.dll
+D:\GeekQuiz\GeekQuiz\bin\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
+D:\GeekQuiz\GeekQuiz\bin\System.Net.Http.Formatting.dll
+D:\GeekQuiz\GeekQuiz\bin\System.Web.Helpers.dll
+D:\GeekQuiz\GeekQuiz\bin\System.Web.Http.dll
+D:\GeekQuiz\GeekQuiz\bin\System.Web.Http.WebHost.dll
+D:\GeekQuiz\GeekQuiz\bin\System.Web.Mvc.dll
+D:\GeekQuiz\GeekQuiz\bin\System.Web.Optimization.dll
+D:\GeekQuiz\GeekQuiz\bin\System.Web.Razor.dll
+D:\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Deployment.dll
+D:\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.dll
+D:\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Razor.dll
+D:\GeekQuiz\GeekQuiz\bin\WebGrease.dll
+D:\GeekQuiz\GeekQuiz\bin\System.Web.Helpers.xml
+D:\GeekQuiz\GeekQuiz\bin\System.Web.Mvc.xml
+D:\GeekQuiz\GeekQuiz\bin\System.Web.Optimization.xml
+D:\GeekQuiz\GeekQuiz\bin\System.Web.Razor.xml
+D:\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.xml
+D:\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Deployment.xml
+D:\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Razor.xml
+D:\GeekQuiz\GeekQuiz\bin\Antlr3.Runtime.pdb
+D:\GeekQuiz\GeekQuiz\bin\Newtonsoft.Json.xml
+D:\GeekQuiz\GeekQuiz\bin\System.Net.Http.Formatting.xml
+D:\GeekQuiz\GeekQuiz\bin\System.Web.Http.xml
+D:\GeekQuiz\GeekQuiz\bin\System.Web.Http.WebHost.xml
+D:\GeekQuiz\GeekQuiz\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\GeekQuiz\GeekQuiz\bin\EntityFramework.xml
+D:\GeekQuiz\GeekQuiz\bin\EntityFramework.SqlServer.xml
+D:\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.csprojResolveAssemblyReference.cache
+D:\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.dll
+D:\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.pdb
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\App_Data\jobs\triggered\HelloWebJobs\HelloWebJobs.exe
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\App_Data\jobs\triggered\HelloWebJobs\HelloWebJobs.pdb
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\App_Data\jobs\triggered\HelloWebJobs\HelloWebJobs.exe.config
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\GeekQuiz.dll.config
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\GeekQuiz.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\GeekQuiz.pdb
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\Antlr3.Runtime.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\EntityFramework.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\EntityFramework.SqlServer.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\Newtonsoft.Json.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Net.Http.Formatting.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.Helpers.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.Http.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.Http.WebHost.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.Mvc.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.Optimization.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.Razor.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Deployment.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Razor.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\WebGrease.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.Helpers.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.Mvc.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.Optimization.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.Razor.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Deployment.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.WebPages.Razor.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\Antlr3.Runtime.pdb
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\Newtonsoft.Json.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Net.Http.Formatting.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.Http.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\System.Web.Http.WebHost.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\EntityFramework.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\EntityFramework.SqlServer.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.csprojResolveAssemblyReference.cache
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.dll
+F:\Projects Heap\CDP\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.pdb
